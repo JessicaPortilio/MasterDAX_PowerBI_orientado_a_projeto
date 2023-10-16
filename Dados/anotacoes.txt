@@ -1,0 +1,10 @@
+"O comércio de material escolar exporta seus produtos para o mundo todo.
+
+'Fatos' são dados quantitativos, enquanto 'dimensões' são dados qualitativos.
+
+Identificação dos fatos (tabelas de fatos) que serão utilizados:
+O fato principal envolve vendas e metas. Portanto, temos dois fatos: 'Fato Vendas' e 'Fato Metas'.
+
+Identificação da granularidade (o que representa uma linha na tabela de fatos? O que cada linha na tabela de fatos armazenará?)
+Uma linha na tabela de fatos 'Vendas' representa uma transação de venda de material escolar realizada por um vendedor para um cliente específico, envolvendo produtos escolares específicos, em quantidades definidas, em uma filial específica, com um método de pagamento específico, associado a um número de nota fiscal, com custos de frete específicos, um desconto aplicado, em uma data específica e um dia de faturamento específico.
+Uma linha na tabela de fatos 'Metas' representa o alcance de metas estabelecidas para uma gerencia no contexto de vendas de material escolar em um dia específico."
