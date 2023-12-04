@@ -24,6 +24,8 @@ Este repositório oferece ferramentas e visualizações para explorar e compreen
 
 Agradecemos por explorar nosso repositório e esperamos que essas análises proporcionem insights valiosos sobre o comércio global de material escolar. Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato!
 
+Obs: Este projeto foi realizado durante o curso MasterDAX Power BI, proporcionando uma experiência prática e orientada a projetos.
+
 ---
 ![image](https://github.com/JessicaPortilio/MasterDAX_PowerBI_orientado_a_projeto/assets/47065396/a606d32c-9fa7-4e7a-944d-5fbee0780474)
 # Dashboard de Desempenho Anual
